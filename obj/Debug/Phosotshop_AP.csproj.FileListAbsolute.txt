@@ -1,0 +1,11 @@
+E:\C# projects\Phosotshop_AP\Phosotshop_AP\bin\Debug\Phosotshop_AP.exe.config
+E:\C# projects\Phosotshop_AP\Phosotshop_AP\bin\Debug\Phosotshop_AP.exe
+E:\C# projects\Phosotshop_AP\Phosotshop_AP\bin\Debug\Phosotshop_AP.pdb
+E:\C# projects\Phosotshop_AP\Phosotshop_AP\obj\Debug\Phosotshop_AP.csproj.AssemblyReference.cache
+E:\C# projects\Phosotshop_AP\Phosotshop_AP\obj\Debug\Phosotshop_AP.csproj.SuggestedBindingRedirects.cache
+E:\C# projects\Phosotshop_AP\Phosotshop_AP\obj\Debug\Phosotshop_AP.Form1.resources
+E:\C# projects\Phosotshop_AP\Phosotshop_AP\obj\Debug\Phosotshop_AP.Properties.Resources.resources
+E:\C# projects\Phosotshop_AP\Phosotshop_AP\obj\Debug\Phosotshop_AP.csproj.GenerateResource.cache
+E:\C# projects\Phosotshop_AP\Phosotshop_AP\obj\Debug\Phosotshop_AP.csproj.CoreCompileInputs.cache
+E:\C# projects\Phosotshop_AP\Phosotshop_AP\obj\Debug\Phosotshop_AP.exe
+E:\C# projects\Phosotshop_AP\Phosotshop_AP\obj\Debug\Phosotshop_AP.pdb
